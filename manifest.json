@@ -1,0 +1,25 @@
+{
+  "name": "PageRefresher",
+  "description": "Demonstration or POC for PageRresher ",
+  "version": "1",
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "manifest_version": 3,
+  "options_page": "option.html",
+  "permissions": ["tabs", "notifications", "storage"],
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*", "*://*.booking.mytadoba.org/"],
+      "js": ["jquery-1.10.2.js", "contentScript.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["script.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {}
+}

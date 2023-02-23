@@ -1,0 +1,15 @@
+
+Hi, 
+
+As I agreed I have created the Chrome extension to refresh and alert functionality. This the demo video of the same.
+
+
+As I mentioned, I have created chrome extension called PageRefresher,I have created the Option page where you can set the refresh internal.
+
+Now, you can see like the page set refresh between configured time.
+
+Let's consider if you get availability in slot (as this production environment of other site, I am doing DOM level changes to replicate the similar kind of situation).
+
+Once, any availability is slot is observed Chrome will send you the notification.
+
+and stops refresh. 
