@@ -7,12 +7,12 @@
 
 # Screenshots
 
-> Feedback panel:
+> Configuration Page:
 
-![](https://github.com/Sarathmunusamy93/WebPageFeedbacker/blob/main/ScreenShots/popPage.jpg?raw=true)
+![](https://github.com/Sarathmunusamy93/TatkalNewTicketAlerter/blob/main/Screenshots/ConfigPage.JPG?raw=true)
 
-> Feedback list:
+> Output of this extension:
 
-![](https://github.com/Sarathmunusamy93/WebPageFeedbacker/blob/main/ScreenShots/optionsPage.jpg?raw=true)
+![](https://github.com/Sarathmunusamy93/TatkalNewTicketAlerter/blob/main/Screenshots/AlertOP.JPG?raw=true)
 
 
